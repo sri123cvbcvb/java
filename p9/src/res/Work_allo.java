@@ -48,7 +48,7 @@ public class Work_allo extends HttpServlet {
 			/*ps.setString(7, noe);
 			ps.setString(8, rev);
 			ps.setString(9, web);*/
-
+//hai
 			int status = ps.executeUpdate();
 
 			if (status > 0)
