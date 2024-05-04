@@ -1,0 +1,11 @@
+Latitude,Longitude,Altitude,PM25,PM10,NO2,SO2,O3,CO,Temperature,Humidity,WindSpeed,PopulationDensity,TrafficDensity,IndustrialActivity,LandUse,EnvironmentalImpact,RegulatoryCompliance,CostEstimate,PublicOpinion,email
+28.6139,77.209,216,15,20,10,5,30,300,25,60,10,1500,High,Moderate,Residential,Low,Compliant,5000000,Positive,null
+40.7128,-74.006,10,12,18,8,4,28,250,20,55,8,2000,Medium,High,Commercial,Medium,Compliant,7000000,Neutral,null
+34.0522,-118.244,71,18,25,12,6,35,350,28,70,15,1800,High,Moderate,Industrial,High,Compliant,6000000,Negative,null
+41.8781,-87.6298,181,14,22,9,5,32,320,23,65,12,2200,Low,Moderate,Residential,Medium,Compliant,5500000,Positive,null
+51.5074,-0.1278,35,10,15,7,3,25,200,18,50,6,1800,Medium,Low,Commercial,Low,Compliant,8000000,Positive,null
+37.7749,-122.419,16,20,30,15,8,40,400,30,75,18,2500,High,High,Residential,High,Compliant,4500000,Negative,null
+35.6895,139.6917,40,8,12,6,2,22,180,15,40,5,2000,Low,Moderate,Commercial,Low,Compliant,7500000,Positive,null
+-33.8688,151.2093,5,16,28,14,7,38,380,26,68,14,1800,Medium,High,Industrial,Medium,Compliant,5000000,Negative,null
+52.52,13.405,34,11,16,8,4,26,220,20,52,10,2000,Low,Moderate,Residential,Low,Compliant,7000000,Neutral,null
+25.2769,55.2962,16,25,35,18,10,45,450,32,80,22,2800,High,High,Commercial,High,Compliant,4000000,Negative,null
